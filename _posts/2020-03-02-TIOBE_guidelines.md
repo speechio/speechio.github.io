@@ -8,10 +8,7 @@ lang: zh
 author: SpeechIO
 ---
 
-2020.03 版本（持续完善中，欢迎意见）
-
-# 背景
-见本公众号 SpeechIO TIOBE Benchmark 引篇
+2020.05 更新版本
 
 # 测试目标：
 客观评估并记录各家厂商的公共语音识别服务在不同领域的识别准确率。
@@ -19,22 +16,17 @@ author: SpeechIO
 # 测试对象：
 公共语音识别服务，目前包括（不限于）：
 
-* 谷歌 
-  * Google Cloud Speech-To-Text API  [https://cloud.google.com/speech-to-text](https://cloud.google.com/speech-to-text)
-* 百度 
-  * 百度智能云-语音识别 [https://cloud.baidu.com/product/speech/asr](https://cloud.baidu.com/product/speech/asr)
-* 阿里 
-  * 阿里云-智能语音 [https://ai.aliyun.com/nls/asr](https://ai.aliyun.com/nls/asr)
-* 腾讯 
-  * 腾讯云-语音识别 [https://cloud.tencent.com/product/asr](https://cloud.tencent.com/product/asr)
-* 科大讯飞  
-  * 讯飞开放平台-语音听写 [https://www.xfyun.cn/services/voicedictation](https://www.xfyun.cn/services/voicedictation)
-* 创业公司Y
-  * 加入创业公司是为了增加评测的覆盖广度，在未获得Y公司的授权前，我们不会公布Y公司的任何具体信息。
-* 搜狗
-  * 知音平台-一句话识别 [https://zhiyin.sogou.com/product/one_recognition](https://zhiyin.sogou.com/product/one_recognition/)
+|简称|服务|网站|
+|:----:|:----:|:----:|
+|阿里|阿里云-智能语音| [https://ai.aliyun.com/nls/asr](https://ai.aliyun.com/nls/asr) |
+|百度|百度智能云-语音识别| [https://cloud.baidu.com/product/speech/asr](https://cloud.baidu.com/product/speech/asr) |
+|谷歌|Google Cloud Speech-To-Text API | [https://cloud.google.com/speech-to-text](https://cloud.google.com/speech-to-text) |
+|讯飞|讯飞开放平台-语音听写| [https://www.xfyun.cn/services/voicedictation](https://www.xfyun.cn/services/voicedictation) |
+|微软|微软Azure认知服务-语音识别| [https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) |
+|搜狗|知音平台-一句话识别| [https://zhiyin.sogou.com/product/one_recognition](https://zhiyin.sogou.com/product/one_recognition/) |
+|腾讯|腾讯云-语音识别| [https://cloud.tencent.com/product/asr](https://cloud.tencent.com/product/asr) |
+|创Y|创业公司Y| 加入创业公司是为了增加评测的覆盖广度，在未获得Y公司的授权前，我们不会公布Y公司的任何具体信息。|
 
-扩展中......
 
 比较各家提供的众多服务（包括实时在线、离线、长语音、短语音等分类），我们最后选择了各家共有的流式短语音识别服务。调用形式上：语音实时发送，且语音总长度不超过60s。
 
