@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 关于 TIOBE 评测榜
+title: TIOBE 评测榜
 permalink: /tiobe/introduction
 key: TIOBE_introduction
 tags: TIOBE-Benchmark

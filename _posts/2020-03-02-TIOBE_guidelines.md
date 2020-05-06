@@ -1,6 +1,6 @@
 ---
 layout: article
-title: TIOBE 评测细则
+title: TIOBE 评测规范
 permalink: /tiobe/guidelines
 key: TIOBE_guidelines
 tags: TIOBE-Benchmark
@@ -22,7 +22,7 @@ author: SpeechIO
 |百度|百度智能云-语音识别| [https://cloud.baidu.com/product/speech/asr](https://cloud.baidu.com/product/speech/asr) |
 |谷歌|Google Cloud Speech-To-Text API | [https://cloud.google.com/speech-to-text](https://cloud.google.com/speech-to-text) |
 |讯飞|讯飞开放平台-语音听写| [https://www.xfyun.cn/services/voicedictation](https://www.xfyun.cn/services/voicedictation) |
-|微软|微软Azure认知服务-语音识别| [https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) |
+|微软|微软Azure认知服务-语音识别| [https://azure.microsoft.com/zh-cn/services/cognitive-services/speech-services/](https://azure.microsoft.com/zh-cn/services/cognitive-services/speech-services/) |
 |搜狗|知音平台-一句话识别| [https://zhiyin.sogou.com/product/one_recognition](https://zhiyin.sogou.com/product/one_recognition/) |
 |腾讯|腾讯云-语音识别| [https://cloud.tencent.com/product/asr](https://cloud.tencent.com/product/asr) |
 |创Y|创业公司Y| 加入创业公司是为了增加评测的覆盖广度，在未获得Y公司的授权前，我们不会公布Y公司的任何具体信息。|
