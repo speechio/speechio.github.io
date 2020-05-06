@@ -4,8 +4,10 @@ title: TIOBE 评测榜
 permalink: /tiobe/introduction
 key: TIOBE_introduction
 tags: TIOBE-Benchmark
-lang: zh
+lang: zh-Hans
 author: SpeechIO
+aside:
+  toc: true
 ---
 
 # 语音识别应用
@@ -81,4 +83,5 @@ author: SpeechIO
 最后，以 TIOBE 名字的由来作为引篇结语：
 
 >“*I've now realised for the first time in my life the vital Importance of Being Earnest.*” 
->节选自《The Importance Of Being Earnest：不可儿戏》-- 奥斯卡·王尔德
+>
+>节选自《The Importance Of Being Earnest：不可儿戏》- 奥斯卡·王尔德

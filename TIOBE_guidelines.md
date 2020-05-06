@@ -4,8 +4,10 @@ title: TIOBE 评测规范
 permalink: /tiobe/guidelines
 key: TIOBE_guidelines
 tags: TIOBE-Benchmark
-lang: zh
+lang: zh-Hans
 author: SpeechIO
+aside:
+  toc: true
 ---
 
 2020.05 更新版本
