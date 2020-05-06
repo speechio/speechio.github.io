@@ -99,7 +99,7 @@ YouTube 鲁豫有约 大咖一日行
         "yAxes": [{
             "display": true,
             "ticks": {
-                "min": 75,
+                "min": 70,
                 "max": 100
             }
         }]

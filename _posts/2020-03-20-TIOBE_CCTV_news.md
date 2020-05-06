@@ -82,7 +82,7 @@ YouTube CCTV中央电视台 官方频道
         "yAxes": [{
             "display": true,
             "ticks": {
-                "min": 75,
+                "min": 70,
                 "max": 100
             }
         }]
