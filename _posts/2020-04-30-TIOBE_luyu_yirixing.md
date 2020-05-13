@@ -1,7 +1,7 @@
 ---
 layout: article
-title: TIOBE 场景测试:鲁豫有约 大咖一日行
-permalink: /tiobe/luyu_yirixing/
+title: TIOBE 场景:鲁豫有约 大咖一日行
+permalink: /tiobe/luyu_yirixing
 key: TIOBE_luyu_yirixing
 tags: TIOBE-Benchmark
 lang: zh-Hans
@@ -15,6 +15,12 @@ YouTube 鲁豫有约 大咖一日行
 我们爬取了该节目截至2020年的共六季内容，每季抽取2期，共计12期节目，总计时间约8小时。
 
 这里需要说明"鲁豫有约 大咖一日行"不同于最早的鲁豫有约，不是完全的演播厅沙发访谈，而是日常跟拍，环境多样丰富，同时也包含安静环境下的对座采访。
+
+# 样例
+<iframe src="//player.bilibili.com/player.html?aid=8613972&bvid=BV1sx41127BR&cid=14185718&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=49051024&bvid=BV1Kb411K78D&cid=85907303&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=49105180&bvid=BV1pb411K7PW&cid=86001765&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=16951745&bvid=BV1JW411Y7Pp&cid=27712013&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # 场景特点
 * 环境:
@@ -39,88 +45,4 @@ YouTube 鲁豫有约 大咖一日行
     * 涵盖娱乐、商业、体育等领域的访谈 & 日常侃大山闲聊
 
 # 测试结果
-测试时间：2020.04
-
-本月开始，测试列表中新加入了搜狗（知音平台）和微软（Azure认知服务）的语音服务
-
-```chart
-{
-  "type": "bar",
-  "data": {
-  "labels": [
-    "阿里",
-    "百度",
-    "谷歌",
-    "讯飞",
-    "微软",
-    "搜狗",
-    "腾讯",
-    "创Y"
-  ],
-  "datasets": [
-    {
-    "label": "字准确率",
-    "data": [
-      92.96,
-      91.15,
-      81.26,
-      93.77,
-      93.17,
-      92.83,
-      89.38,
-      95.44
-    ],
-    "backgroundColor": [
-      "rgba(255, 99, 132, 0.2)",
-      "rgba(54, 162, 235, 0.2)",
-      "rgba(255, 206, 86, 0.2)",
-      "rgba(75, 192, 192, 0.2)",
-      "rgba(153, 102, 255, 0.2)",
-      "rgba(255, 159, 64, 0.2)",
-      "rgba(102, 255, 51, 0.2)",
-      "rgba(255, 0, 255, 0.2)"
-    ],
-    "borderColor": [
-      "rgba(255,99,132,1)",
-      "rgba(54, 162, 235, 1)",
-      "rgba(255, 206, 86, 1)",
-      "rgba(75, 192, 192, 1)",
-      "rgba(153, 102, 255, 1)",
-      "rgba(255, 159, 64, 1)",
-      "rgba(102, 255, 51, 1)",
-      "rgba(255, 0, 255, 1)"
-    ],
-    "borderWidth": 2
-    }
-  ]
-  },
-  "options": {
-    "scales": {
-        "yAxes": [{
-            "display": true,
-            "ticks": {
-                "min": 70,
-                "max": 100
-            }
-        }]
-    }
-  }
-}
-```
-
-
-|    | 字准确率 (100%-CER%)  | 
-|:----:|:----:|:----:|:----:|
-|阿里|92.96|
-|百度|91.15|
-|谷歌|81.26|
-|讯飞|93.77|
-|微软|93.17|
-|搜狗|92.83|
-|腾讯|89.38|
-|创Y|95.44|
-
-# 简评
-* 跟上期的新闻联播相比，可以发现各家的识别性能都发生了明显的下降，读者可以详细对比两篇领域测试中的[场景特点]部分，从中了解识别性能差异的来源。其中，自然对话、现实生活中的各种背景噪音，都是很重要的影响因素。
-
-* 鲁豫有约大咖一日行节目，是专业的团队制作，仍属于高质量语音。现实生活中，会有很多信噪比糟糕得多的场景，现阶段语音识别的性能会更大幅度的下降。因此大家可以看到厂商们都在推出各种各样的硬件设备，配合新的语音技术去解决这类问题。
+请跳转至[TIOBE 滚动测试页面](/tiobe/timeline#场景鲁豫有约-大咖一日行), 该页面包含所有历史及最新性能数据。

@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       TIOBE Intro
+      en      : &EN       TIOBE 评测榜
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -22,33 +22,8 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /tiobe/introduction
-
-  - titles:
-      # @start locale config
-      en      : &EN       TIOBE 评测规范
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  TIOBE 评测规范
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : *ZH_HANT 
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : *KO       
-      ko-KR   : *KO
-      fr      : *FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /tiobe/guidelines   
-
+    url: /tiobe/timeline 
+    
   - titles:
       # @start locale config
       en      : &EN       TIOBE 场景列表
@@ -73,31 +48,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       TIOBE 滚动汇总
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  TIOBE 滚动汇总
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : *ZH_HANT 
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : *KO       
-      ko-KR   : *KO
-      fr      : *FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /tiobe/timeline 
 
   - titles:
       # @start locale config
