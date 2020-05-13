@@ -1,6 +1,6 @@
 ---
 layout: article
-title: TIOBE 场景:鲁豫有约 大咖一日行
+title: TIOBE 测试场景:鲁豫有约 大咖一日行
 permalink: /tiobe/luyu_yirixing
 key: TIOBE_luyu_yirixing
 tags: TIOBE-Benchmark

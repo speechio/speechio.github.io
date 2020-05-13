@@ -1,6 +1,6 @@
 ---
 layout: article
-title: TIOBE 场景测试:新闻联播
+title: TIOBE 测试场景:新闻联播
 permalink: /tiobe/cctv_news
 key: TIOBE_cctv_news
 tags: TIOBE-Benchmark
