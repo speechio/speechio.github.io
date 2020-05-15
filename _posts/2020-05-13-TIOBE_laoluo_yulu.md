@@ -14,8 +14,6 @@ Bilibili哔哩哔哩 老罗语录
 
 我们搜罗并爬取了老罗在新东方讲课时期的录音，即[老罗语录]。从中选取了一部分相对清晰的音频，累计约 3.5 小时原始音频
 
-该场景相当有挑战，标注过程中，标注员遇到了相当比例听不清的句子，我们采取了丢句的策略。
-
 # 样例
 
 <iframe src="//player.bilibili.com/player.html?aid=74543521&bvid=BV1dE411q7tP&cid=127504429&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -42,6 +40,10 @@ Bilibili哔哩哔哩 老罗语录
   * 普通话
 * 内容领域
   * 闲聊
+
+该场景相当有挑战：自然语言 + 远场语音识别 + 单麦克风的手机和录音笔(均不属于专业远场拾音设备)
+
+标注过程中，标注员遇到了相当比例听不清的句子，我们采取了丢句的策略。
 
 # 测试结果
 请跳转至[TIOBE 滚动测试页面](/tiobe/timeline#场景老罗语录), 该页面包含所有历史及最新性能数据。
