@@ -25,9 +25,10 @@ aside:
 |谷歌|Google Cloud Speech-To-Text API | [https://cloud.google.com/speech-to-text](https://cloud.google.com/speech-to-text) |
 |讯飞|讯飞开放平台-语音听写| [https://www.xfyun.cn/services/voicedictation](https://www.xfyun.cn/services/voicedictation) |
 |微软|微软Azure认知服务-语音识别| [https://azure.microsoft.com/zh-cn/services/cognitive-services/speech-services/](https://azure.microsoft.com/zh-cn/services/cognitive-services/speech-services/) |
+|创S|创业公司S| 加入创业公司增加评测的覆盖广度|
 |搜狗|知音平台-一句话识别| [https://zhiyin.sogou.com/product/one_recognition](https://zhiyin.sogou.com/product/one_recognition/) |
 |腾讯|腾讯云-语音识别| [https://cloud.tencent.com/product/asr](https://cloud.tencent.com/product/asr) |
-|创Y|创业公司Y| 加入创业公司是为了增加评测的覆盖广度，在未获得Y公司的授权前，我们不会公布Y公司的任何具体信息。|
+|创Y|创业公司Y| 加入创业公司增加评测的覆盖广度|
 
 
 比较各家提供的众多服务（包括实时在线、离线、长语音、短语音等分类），我们最后选择了各家共有的流式短语音识别服务。调用形式上：语音实时发送，且语音总长度不超过60s。
