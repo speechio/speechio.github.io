@@ -28,7 +28,7 @@ aside:
 |创S|创业公司S| 加入创业公司增加评测的覆盖广度|
 |搜狗|知音平台-一句话识别| [https://zhiyin.sogou.com/product/one_recognition](https://zhiyin.sogou.com/product/one_recognition/) |
 |腾讯|腾讯云-语音识别| [https://cloud.tencent.com/product/asr](https://cloud.tencent.com/product/asr) |
-|创Y|创业公司Y| 加入创业公司增加评测的覆盖广度|
+|依图|依图语音开放平台| [https://speech.yitutech.com/](https://speech.yitutech.com/) 短语音听写服务 |
 
 
 比较各家提供的众多服务（包括实时在线、离线、长语音、短语音等分类），我们最后选择了各家共有的流式短语音识别服务。调用形式上：语音实时发送，且语音总长度不超过60s。
