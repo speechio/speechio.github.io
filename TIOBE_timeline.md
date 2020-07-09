@@ -12,10 +12,10 @@ aside:
 ---
 
 # TIOBE 评测介绍
-[TIOBE 评测介绍](/gintroduction)
+[TIOBE 评测介绍](/introduction)
 
 # TIOBE 评测规范
-[TIOBE 评测规范](/gguidelines)
+[TIOBE 评测规范](/guidelines)
 
 # 滚动汇总
 
@@ -57,7 +57,7 @@ aside:
 ## 场景：新闻联播
 
 ### 场景详情
-[场景详情链接](/gcctv_news)
+[场景详情链接](/cctv_news)
 
 ### 滚动测试
 
@@ -82,7 +82,7 @@ aside:
 ## 场景：鲁豫有约 大咖一日行
 
 ### 场景详情
-[场景详情链接](/gluyu_yirixing)
+[场景详情链接](/luyu_yirixing)
 
 ### 滚动测试
 
@@ -107,7 +107,7 @@ aside:
 ## 场景：天下足球 世界杯往事
 
 ### 场景详情
-[场景详情链接](/gtianxiazuqiu)
+[场景详情链接](/tianxiazuqiu)
 
 ### 滚动测试
 
@@ -129,7 +129,7 @@ aside:
 ## 场景：罗振宇 跨年演讲
 
 ### 场景详情
-[场景详情链接](/gluozhenyu)
+[场景详情链接](/luozhenyu)
 
 ### 滚动测试
 
@@ -151,7 +151,7 @@ aside:
 ## 场景：李永乐老师 在线讲堂
 
 ### 场景详情
-[场景详情链接](/gliyongle)
+[场景详情链接](/liyongle)
 
 ### 滚动测试
 
@@ -173,7 +173,7 @@ aside:
 ## 场景：直播 王者荣耀
 
 ### 场景详情
-[场景详情链接](/gzhibo_wangzherongyao)
+[场景详情链接](/zhibo_wangzherongyao)
 
 ### 滚动测试
 
@@ -194,7 +194,7 @@ aside:
 ## 场景：直播 带货
 
 ### 场景详情
-[场景详情链接](/gzhibo_daihuo)
+[场景详情链接](/zhibo_daihuo)
 
 ### 滚动测试
 
@@ -215,7 +215,7 @@ aside:
 ## 场景：老罗语录
 
 ### 场景详情
-[场景详情链接](/glaoluo_yulu)
+[场景详情链接](/laoluo_yulu)
 
 ### 滚动测试
 
