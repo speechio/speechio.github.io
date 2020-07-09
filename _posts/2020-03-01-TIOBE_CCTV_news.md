@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:新闻联播
-permalink: /tiobe/cctv_news
+permalink: /cctv_news
 key: TIOBE_cctv_news
 tags: TIOBE-Benchmark
 lang: zh-Hans

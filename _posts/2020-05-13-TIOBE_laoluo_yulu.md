@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:老罗语录
-permalink: /tiobe/laoluo_yulu
+permalink: /laoluo_yulu
 key: TIOBE_laoluo_yulu
 tags: TIOBE-Benchmark
 lang: zh-Hans

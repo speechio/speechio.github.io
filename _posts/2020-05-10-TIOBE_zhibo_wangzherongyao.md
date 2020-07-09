@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:直播 王者荣耀
-permalink: /tiobe/zhibo_wangzherongyao
+permalink: /zhibo_wangzherongyao
 key: TIOBE_zhibo_wangzherongyao
 tags: TIOBE-Benchmark
 lang: zh-Hans

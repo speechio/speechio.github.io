@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 评测规范
-permalink: /tiobe/guidelines
+permalink: /guidelines
 key: TIOBE_guidelines
 tags: TIOBE-Benchmark
 lang: zh-Hans

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:天下足球 世界杯往事
-permalink: /tiobe/tianxiazuqiu
+permalink: /tianxiazuqiu
 key: TIOBE_tianxiazuqiu
 tags: TIOBE-Benchmark
 lang: zh-Hans

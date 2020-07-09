@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:李永乐老师 在线讲堂
-permalink: /tiobe/liyongle
+permalink: /liyongle
 key: TIOBE_liyongle
 tags: TIOBE-Benchmark
 lang: zh-Hans

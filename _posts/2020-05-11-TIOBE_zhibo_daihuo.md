@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:直播 带货
-permalink: /tiobe/zhibo_daihuo
+permalink: /zhibo_daihuo
 key: TIOBE_zhibo_daihuo
 tags: TIOBE-Benchmark
 lang: zh-Hans

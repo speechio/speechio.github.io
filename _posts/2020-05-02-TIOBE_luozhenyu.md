@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 测试场景:罗振宇 跨年演讲
-permalink: /tiobe/luozhenyu
+permalink: /luozhenyu
 key: TIOBE_luozhenyu
 tags: TIOBE-Benchmark
 lang: zh-Hans

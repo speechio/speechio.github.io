@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TIOBE 评测榜
-permalink: /tiobe/introduction
+permalink: /introduction
 key: TIOBE_introduction
 tags: TIOBE-Benchmark
 lang: zh-Hans

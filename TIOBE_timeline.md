@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SpeechIO TIOBE 评测榜
-permalink: /tiobe/timeline
+permalink: /timeline
 key: TIOBE_timeline
 tags: TIOBE-Benchmark
 lang: zh-Hans
